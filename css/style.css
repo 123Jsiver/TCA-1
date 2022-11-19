@@ -1,0 +1,67 @@
+#logo {
+    width: 8vw;
+    height: 8vw;
+}
+
+#nav {
+    background-color: #E7ECEF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#title{
+    font-size: 7vw;
+    color: #333E48;
+}
+
+.row{
+    text-align: center;
+justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+body{
+    background-color: #067BC2;
+}
+
+#characters{
+    color: #ED6516;
+    font-size: 15vw;
+    text-decoration:underline;
+}
+
+.Signika
+{
+    font-family: 'Signika', sans-serif;
+}
+
+.notoSans
+{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h2{
+    color: #ED6516;
+    font-size: 3vw;
+}
+
+#p{
+  font-size: 18px;
+  color: #010001;
+}
+
+#heros{
+  height: 20vw;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* colors
+ #067BC2
+ #010001
+ #E7ECEF
+ #ED6516
+ #333E48 */
